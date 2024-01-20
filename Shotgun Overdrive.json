@@ -7,11 +7,13 @@
   "chapters": {
     "1": {
       "title": "One Shot",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1705729788",
       "groups": {
         "Dimension 1021": [
-          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_001.jpg?raw=true"
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_001.jpg?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_002.jpg?raw=true",
+          ""
         ]
       }
     }
