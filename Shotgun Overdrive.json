@@ -10,7 +10,11 @@
       "volume": "",
       "last_updated": "1705729788",
       "groups": {
-        "Dimension 1021": "https://github.com/GoddamnMangaArtist/stuff.git"
+        "Dimension 1021": [
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_001.jpg",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_002.jpg",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_003.jpg"
+        ]
       }
     }
   }
