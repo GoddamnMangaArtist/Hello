@@ -4,5 +4,14 @@
   "artist": "Goddamn Manga Artist",
   "author": "Goddamn Manga Artist",
   "cover": "https://files.catbox.moe/z569iv.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "One Shot",
+      "volume": "",
+      "last_updated": "1705729788",
+      "groups": {
+        "Dimension 1021": "https://github.com/GoddamnMangaArtist/stuff.git"
+      }
+    }
+  }
 }
