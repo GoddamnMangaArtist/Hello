@@ -5,6 +5,22 @@
   "author": "Goddamn Manga Artist",
   "cover": "https://files.catbox.moe/z569iv.png",
   "chapters": {
+    "0": {
+      "title": "???",
+      "volume": "1",
+      "last_updated": "1706767850",
+      "groups": {
+        "Dimension 1021": [
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/118.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_119.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_120.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_121.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_122.png?raw=true",
+          "https://github.com/GoddamnMangaArtist/stuff/blob/main/Shotgun%20Overdrive_123.png?raw=true",
+          ""
+        ]
+      }
+    },
     "1": {
       "title": "One Shot",
       "volume": "1",
